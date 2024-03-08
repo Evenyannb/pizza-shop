@@ -9,6 +9,7 @@ public abstract class Pizza {
     Cheese cheese;
     Pepperoni pepperoni;
     Clams clam;
+    NewIngredient garlic;
 
     StringBuffer state = new StringBuffer();
 
